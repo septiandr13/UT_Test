@@ -1,0 +1,14 @@
+D:\DATA SEPTIAN GANTENG\SoalNo3\bin\Debug\net8.0\SoalNo3.exe
+D:\DATA SEPTIAN GANTENG\SoalNo3\bin\Debug\net8.0\SoalNo3.deps.json
+D:\DATA SEPTIAN GANTENG\SoalNo3\bin\Debug\net8.0\SoalNo3.runtimeconfig.json
+D:\DATA SEPTIAN GANTENG\SoalNo3\bin\Debug\net8.0\SoalNo3.dll
+D:\DATA SEPTIAN GANTENG\SoalNo3\bin\Debug\net8.0\SoalNo3.pdb
+D:\DATA SEPTIAN GANTENG\SoalNo3\obj\Debug\net8.0\SoalNo3.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA SEPTIAN GANTENG\SoalNo3\obj\Debug\net8.0\SoalNo3.AssemblyInfoInputs.cache
+D:\DATA SEPTIAN GANTENG\SoalNo3\obj\Debug\net8.0\SoalNo3.AssemblyInfo.cs
+D:\DATA SEPTIAN GANTENG\SoalNo3\obj\Debug\net8.0\SoalNo3.csproj.CoreCompileInputs.cache
+D:\DATA SEPTIAN GANTENG\SoalNo3\obj\Debug\net8.0\SoalNo3.dll
+D:\DATA SEPTIAN GANTENG\SoalNo3\obj\Debug\net8.0\refint\SoalNo3.dll
+D:\DATA SEPTIAN GANTENG\SoalNo3\obj\Debug\net8.0\SoalNo3.pdb
+D:\DATA SEPTIAN GANTENG\SoalNo3\obj\Debug\net8.0\SoalNo3.genruntimeconfig.cache
+D:\DATA SEPTIAN GANTENG\SoalNo3\obj\Debug\net8.0\ref\SoalNo3.dll

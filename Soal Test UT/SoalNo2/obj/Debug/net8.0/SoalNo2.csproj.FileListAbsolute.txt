@@ -1,0 +1,14 @@
+D:\DATA SEPTIAN GANTENG\SoalNo2\bin\Debug\net8.0\SoalNo2.exe
+D:\DATA SEPTIAN GANTENG\SoalNo2\bin\Debug\net8.0\SoalNo2.deps.json
+D:\DATA SEPTIAN GANTENG\SoalNo2\bin\Debug\net8.0\SoalNo2.runtimeconfig.json
+D:\DATA SEPTIAN GANTENG\SoalNo2\bin\Debug\net8.0\SoalNo2.dll
+D:\DATA SEPTIAN GANTENG\SoalNo2\bin\Debug\net8.0\SoalNo2.pdb
+D:\DATA SEPTIAN GANTENG\SoalNo2\obj\Debug\net8.0\SoalNo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA SEPTIAN GANTENG\SoalNo2\obj\Debug\net8.0\SoalNo2.AssemblyInfoInputs.cache
+D:\DATA SEPTIAN GANTENG\SoalNo2\obj\Debug\net8.0\SoalNo2.AssemblyInfo.cs
+D:\DATA SEPTIAN GANTENG\SoalNo2\obj\Debug\net8.0\SoalNo2.csproj.CoreCompileInputs.cache
+D:\DATA SEPTIAN GANTENG\SoalNo2\obj\Debug\net8.0\SoalNo2.dll
+D:\DATA SEPTIAN GANTENG\SoalNo2\obj\Debug\net8.0\refint\SoalNo2.dll
+D:\DATA SEPTIAN GANTENG\SoalNo2\obj\Debug\net8.0\SoalNo2.pdb
+D:\DATA SEPTIAN GANTENG\SoalNo2\obj\Debug\net8.0\SoalNo2.genruntimeconfig.cache
+D:\DATA SEPTIAN GANTENG\SoalNo2\obj\Debug\net8.0\ref\SoalNo2.dll
