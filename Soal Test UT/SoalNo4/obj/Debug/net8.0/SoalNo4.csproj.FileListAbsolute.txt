@@ -1,0 +1,15 @@
+D:\TestUT\Soal Test UT\SoalNo4\bin\Debug\net8.0\SoalNo4.exe
+D:\TestUT\Soal Test UT\SoalNo4\bin\Debug\net8.0\SoalNo4.deps.json
+D:\TestUT\Soal Test UT\SoalNo4\bin\Debug\net8.0\SoalNo4.runtimeconfig.json
+D:\TestUT\Soal Test UT\SoalNo4\bin\Debug\net8.0\SoalNo4.dll
+D:\TestUT\Soal Test UT\SoalNo4\bin\Debug\net8.0\SoalNo4.pdb
+D:\TestUT\Soal Test UT\SoalNo4\obj\Debug\net8.0\SoalNo4.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestUT\Soal Test UT\SoalNo4\obj\Debug\net8.0\SoalNo4.AssemblyInfoInputs.cache
+D:\TestUT\Soal Test UT\SoalNo4\obj\Debug\net8.0\SoalNo4.AssemblyInfo.cs
+D:\TestUT\Soal Test UT\SoalNo4\obj\Debug\net8.0\SoalNo4.csproj.CoreCompileInputs.cache
+D:\TestUT\Soal Test UT\SoalNo4\obj\Debug\net8.0\SoalNo4.sourcelink.json
+D:\TestUT\Soal Test UT\SoalNo4\obj\Debug\net8.0\SoalNo4.dll
+D:\TestUT\Soal Test UT\SoalNo4\obj\Debug\net8.0\refint\SoalNo4.dll
+D:\TestUT\Soal Test UT\SoalNo4\obj\Debug\net8.0\SoalNo4.pdb
+D:\TestUT\Soal Test UT\SoalNo4\obj\Debug\net8.0\SoalNo4.genruntimeconfig.cache
+D:\TestUT\Soal Test UT\SoalNo4\obj\Debug\net8.0\ref\SoalNo4.dll

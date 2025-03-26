@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DATA SEPTIAN GANTENG\\SoalNo3\\SoalNo3.csproj": {}
+    "D:\\TestUT\\Soal Test UT\\SoalNo3\\SoalNo3.csproj": {}
   },
   "projects": {
-    "D:\\DATA SEPTIAN GANTENG\\SoalNo3\\SoalNo3.csproj": {
+    "D:\\TestUT\\Soal Test UT\\SoalNo3\\SoalNo3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DATA SEPTIAN GANTENG\\SoalNo3\\SoalNo3.csproj",
+        "projectUniqueName": "D:\\TestUT\\Soal Test UT\\SoalNo3\\SoalNo3.csproj",
         "projectName": "SoalNo3",
-        "projectPath": "D:\\DATA SEPTIAN GANTENG\\SoalNo3\\SoalNo3.csproj",
+        "projectPath": "D:\\TestUT\\Soal Test UT\\SoalNo3\\SoalNo3.csproj",
         "packagesPath": "C:\\Users\\itcde\\.nuget\\packages\\",
-        "outputPath": "D:\\DATA SEPTIAN GANTENG\\SoalNo3\\obj\\",
+        "outputPath": "D:\\TestUT\\Soal Test UT\\SoalNo3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",

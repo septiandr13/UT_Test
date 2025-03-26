@@ -17,11 +17,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DATA SEPTIAN GANTENG\\SoalNo2\\SoalNo2.csproj",
+      "projectUniqueName": "D:\\TestUT\\Soal Test UT\\SoalNo2\\SoalNo2.csproj",
       "projectName": "SoalNo2",
-      "projectPath": "D:\\DATA SEPTIAN GANTENG\\SoalNo2\\SoalNo2.csproj",
+      "projectPath": "D:\\TestUT\\Soal Test UT\\SoalNo2\\SoalNo2.csproj",
       "packagesPath": "C:\\Users\\itcde\\.nuget\\packages\\",
-      "outputPath": "D:\\DATA SEPTIAN GANTENG\\SoalNo2\\obj\\",
+      "outputPath": "D:\\TestUT\\Soal Test UT\\SoalNo2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
